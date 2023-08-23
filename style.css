@@ -1,0 +1,9 @@
+body{
+    background-color: antiquewhite;
+}
+center h1{
+    color: blue;
+}
+h1 marquee{
+    color: rgb(0, 229, 255);
+}
